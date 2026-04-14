@@ -274,7 +274,7 @@ const App = () => {
               <a className="fw-bold text-white fs-3 text-decoration-none" href="#home">SABIR<span className="text-info">.</span>ALI</a>
               <p className="text-secondary mt-3 text-white pe-lg-5">Crafting scalable MERN stack solutions with a focus on high-performance logic and clean design.</p>
               <div className="d-flex gap-3  mt-4">
-                <a href="#" className="footer-social-link"><Github size={20} /></a>
+                <a href="https://github.com/Sabir-Ali1516" className="footer-social-link"><Github size={20} /></a>
                 <a href="https://www.linkedin.com/in/sabir-ali-b16ba32a7/" className="footer-social-link"><Linkedin size={20} /></a>
                 <a href="mailto:ssabiralii110@gmail.com" className="footer-social-link"><Mail size={20} /></a>
               </div>
