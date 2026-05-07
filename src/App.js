@@ -69,7 +69,7 @@ const App = () => {
             <motion.div initial="hidden" animate="visible" variants={animations.pop} className="col-lg-4 text-center">
                 <div className="position-relative d-inline-block">
                     <div style={{ position: 'absolute', inset: '-10px', background: 'linear-gradient(45deg, #00f2ff, transparent)', borderRadius: '30px', filter: 'blur(20px)', opacity: 0.3 }}></div>
-                    <img src="/favicon.ico.png" alt="Sabir Ali" className="img-fluid shadow-lg" style={{ width: '300px', height: '350px', objectFit: 'cover', borderRadius: '30px', border: '2px solid rgba(0, 242, 255, 0.3)', position: 'relative', zIndex: 1 }} />
+                    <img src="/121.png" alt="Sabir Ali" className="img-fluid shadow-lg" style={{ width: '300px', height: '350px', objectFit: 'cover', borderRadius: '30px', border: '2px solid rgba(0, 242, 255, 0.3)', position: 'relative', zIndex: 1 }} />
                 </div>
             </motion.div>
         </div>
